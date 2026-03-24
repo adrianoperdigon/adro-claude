@@ -259,7 +259,7 @@
     {
       "scope": ["keyword.operator", "punctuation"],
       "settings": {
-        "foreground": "#8F908A"
+        "foreground": "#D4D5CF"
       }
     },
     {

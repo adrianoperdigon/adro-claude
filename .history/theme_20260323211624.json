@@ -228,7 +228,7 @@
     {
       "scope": ["source", "text"],
       "settings": {
-        "foreground": "#C9C5B8"
+        "foreground": "#D4D5CF"
       }
     },
     {
@@ -259,7 +259,7 @@
     {
       "scope": ["keyword.operator", "punctuation"],
       "settings": {
-        "foreground": "#8F908A"
+        "foreground": "#D4D5CF"
       }
     },
     {
@@ -305,7 +305,7 @@
     {
       "scope": ["variable", "variable.other.readwrite", "variable.parameter"],
       "settings": {
-        "foreground": "#C9C5B8"
+        "foreground": "#D4D5CF"
       }
     },
     {
