@@ -290,18 +290,6 @@
         "foreground": "#6b6961",
         "fontStyle": "italic"
       }
-    },
-    {
-      "name": "HTML/JSX Tags",
-      "scope": [
-        "entity.name.tag",
-        "meta.tag punctuation.definition.tag",
-        "meta.tag.jsx",
-        "support.class.component.jsx"
-      ],
-      "settings": {
-        "foreground": "#5cacde"
-      }
     }
   ],
   "semanticHighlighting": true,
@@ -313,8 +301,6 @@
     "variable": "#c3c1ba",
     "property": "#c4a66e",
     "string": "#8fba6a",
-    "number": "#e89b76",
-    "type": "#5cacde",
-    "class": "#5cacde"
+    "number": "#e89b76"
   }
 }
