@@ -210,6 +210,13 @@
   },
   "tokenColors": [
     {
+      "name": "Function Keyword",
+      "scope": ["storage.type.function"],
+      "settings": {
+        "foreground": "#b39cf5"
+      }
+    },
+    {
       "name": "Keywords & Storage",
       "scope": [
         "keyword",
@@ -302,13 +309,24 @@
       "settings": {
         "foreground": "#5cacde"
       }
+    },
+    {
+      "name": "JSX Attributes",
+      "scope": [
+        "entity.other.attribute-name",
+        "entity.other.attribute-name.jsx",
+        "entity.other.attribute-name.tsx"
+      ],
+      "settings": {
+        "foreground": "#c4a66e"
+      }
     }
   ],
   "semanticHighlighting": true,
   "semanticTokenColors": {
     "keyword": "#d87757",
     "storage": "#d87757",
-    "function": "#b39cf5",
+    "function": "#5cacde",
     "method": "#b39cf5",
     "variable": "#c3c1ba",
     "property": "#c4a66e",
